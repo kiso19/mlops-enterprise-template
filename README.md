@@ -20,7 +20,7 @@ The following prerequisites are required to make this repository work:
 - Contributor access to the Azure subscription
 - Access to [GitHub Actions](https://github.com/features/actions)
 
-If you don’t have an Azure subscription, create a free account before you begin. Try the [free or paid version of Azure Machine Learning](https://aka.ms/AMLFree) today.
+If you don’t have an Azure subscription, create a free account before you begin. Try the [free or paid version of Azure Machine Learning](https://aka.ms/AMLFree) today
 
 ### 2. Create repository
 
